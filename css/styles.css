@@ -18,5 +18,7 @@ body {
     padding-bottom: 30px;
 }
 .card-container {
+    height: 100px;
+    baclground-color: #000;
 
 }
